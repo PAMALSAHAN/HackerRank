@@ -1,0 +1,11 @@
+F:\hackerrank\Rpgangsers\PyramidPrints\bin\Debug\netcoreapp3.1\PyramidPrints.exe
+F:\hackerrank\Rpgangsers\PyramidPrints\bin\Debug\netcoreapp3.1\PyramidPrints.deps.json
+F:\hackerrank\Rpgangsers\PyramidPrints\bin\Debug\netcoreapp3.1\PyramidPrints.runtimeconfig.json
+F:\hackerrank\Rpgangsers\PyramidPrints\bin\Debug\netcoreapp3.1\PyramidPrints.runtimeconfig.dev.json
+F:\hackerrank\Rpgangsers\PyramidPrints\bin\Debug\netcoreapp3.1\PyramidPrints.dll
+F:\hackerrank\Rpgangsers\PyramidPrints\bin\Debug\netcoreapp3.1\PyramidPrints.pdb
+F:\hackerrank\Rpgangsers\PyramidPrints\obj\Debug\netcoreapp3.1\PyramidPrints.csprojAssemblyReference.cache
+F:\hackerrank\Rpgangsers\PyramidPrints\obj\Debug\netcoreapp3.1\PyramidPrints.AssemblyInfoInputs.cache
+F:\hackerrank\Rpgangsers\PyramidPrints\obj\Debug\netcoreapp3.1\PyramidPrints.AssemblyInfo.cs
+F:\hackerrank\Rpgangsers\PyramidPrints\obj\Debug\netcoreapp3.1\PyramidPrints.dll
+F:\hackerrank\Rpgangsers\PyramidPrints\obj\Debug\netcoreapp3.1\PyramidPrints.pdb

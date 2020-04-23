@@ -1,0 +1,11 @@
+F:\hackerrank\Rpgangsers\SaveHumanityAgainstCOVID-19\bin\Debug\netcoreapp3.1\SaveHumanityAgainstCOVID-19.exe
+F:\hackerrank\Rpgangsers\SaveHumanityAgainstCOVID-19\bin\Debug\netcoreapp3.1\SaveHumanityAgainstCOVID-19.deps.json
+F:\hackerrank\Rpgangsers\SaveHumanityAgainstCOVID-19\bin\Debug\netcoreapp3.1\SaveHumanityAgainstCOVID-19.runtimeconfig.json
+F:\hackerrank\Rpgangsers\SaveHumanityAgainstCOVID-19\bin\Debug\netcoreapp3.1\SaveHumanityAgainstCOVID-19.runtimeconfig.dev.json
+F:\hackerrank\Rpgangsers\SaveHumanityAgainstCOVID-19\bin\Debug\netcoreapp3.1\SaveHumanityAgainstCOVID-19.dll
+F:\hackerrank\Rpgangsers\SaveHumanityAgainstCOVID-19\bin\Debug\netcoreapp3.1\SaveHumanityAgainstCOVID-19.pdb
+F:\hackerrank\Rpgangsers\SaveHumanityAgainstCOVID-19\obj\Debug\netcoreapp3.1\SaveHumanityAgainstCOVID-19.csprojAssemblyReference.cache
+F:\hackerrank\Rpgangsers\SaveHumanityAgainstCOVID-19\obj\Debug\netcoreapp3.1\SaveHumanityAgainstCOVID-19.AssemblyInfoInputs.cache
+F:\hackerrank\Rpgangsers\SaveHumanityAgainstCOVID-19\obj\Debug\netcoreapp3.1\SaveHumanityAgainstCOVID-19.AssemblyInfo.cs
+F:\hackerrank\Rpgangsers\SaveHumanityAgainstCOVID-19\obj\Debug\netcoreapp3.1\SaveHumanityAgainstCOVID-19.dll
+F:\hackerrank\Rpgangsers\SaveHumanityAgainstCOVID-19\obj\Debug\netcoreapp3.1\SaveHumanityAgainstCOVID-19.pdb
