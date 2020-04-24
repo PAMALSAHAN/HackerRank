@@ -1,0 +1,11 @@
+F:\hackerrank\HackerRank\Algorithms\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.exe
+F:\hackerrank\HackerRank\Algorithms\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.deps.json
+F:\hackerrank\HackerRank\Algorithms\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.runtimeconfig.json
+F:\hackerrank\HackerRank\Algorithms\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.runtimeconfig.dev.json
+F:\hackerrank\HackerRank\Algorithms\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.dll
+F:\hackerrank\HackerRank\Algorithms\SimpleArraySum\bin\Debug\netcoreapp3.1\SimpleArraySum.pdb
+F:\hackerrank\HackerRank\Algorithms\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.csprojAssemblyReference.cache
+F:\hackerrank\HackerRank\Algorithms\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.AssemblyInfoInputs.cache
+F:\hackerrank\HackerRank\Algorithms\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.AssemblyInfo.cs
+F:\hackerrank\HackerRank\Algorithms\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.dll
+F:\hackerrank\HackerRank\Algorithms\SimpleArraySum\obj\Debug\netcoreapp3.1\SimpleArraySum.pdb

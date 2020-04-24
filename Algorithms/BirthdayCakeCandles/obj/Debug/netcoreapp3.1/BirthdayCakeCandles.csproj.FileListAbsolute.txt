@@ -1,0 +1,11 @@
+F:\hackerrank\HackerRank\Algorithms\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.exe
+F:\hackerrank\HackerRank\Algorithms\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.deps.json
+F:\hackerrank\HackerRank\Algorithms\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.runtimeconfig.json
+F:\hackerrank\HackerRank\Algorithms\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.runtimeconfig.dev.json
+F:\hackerrank\HackerRank\Algorithms\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.dll
+F:\hackerrank\HackerRank\Algorithms\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.pdb
+F:\hackerrank\HackerRank\Algorithms\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.csprojAssemblyReference.cache
+F:\hackerrank\HackerRank\Algorithms\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.AssemblyInfoInputs.cache
+F:\hackerrank\HackerRank\Algorithms\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.AssemblyInfo.cs
+F:\hackerrank\HackerRank\Algorithms\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.dll
+F:\hackerrank\HackerRank\Algorithms\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.pdb
